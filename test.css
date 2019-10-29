@@ -1,0 +1,310 @@
+.lua.source-lua {
+ font-family:Monaco,Menlo,Ubuntu Mono,Consolas,source-code-pro,monospace;
+ font-style:normal;
+ font-weight:bold;
+ line-height:1em
+}
+.lua.source-lua .de1 {
+ color:#D5D4D4;
+ border-top:1px solid #FF004D;
+ border-left:1px solid #141e39;
+ border-right:1px solid #141e39;
+ border-bottom:1px solid #FF004D;
+ font-family:Monaco,Menlo,Ubuntu Mono,Consolas,source-code-pro,monospace;
+ font-style:normal;
+ font-weight:bold;
+ line-height:1em
+}
+.lua.source-lua .de2 {
+ color:#D5D4D4;
+ border-top:1px solid #FF004D;
+ border-left:1px solid #141e39;
+ border-right:1px solid #141e39;
+ border-bottom:1px solid #FF004D;
+ font-family:Monaco,Menlo,Ubuntu Mono,Consolas,source-code-pro,monospace;
+ font-style:normal;
+ font-weight:bold;
+ line-height:1em
+}
+.lua.source-lua pre.de1 {
+ background-color:#1D2B53;
+ padding-top:4px;
+ padding-left:4px;
+ padding-right:2px;
+ padding-bottom:7px;
+ overflow:auto;
+ word-wrap:normal;
+ font-family:Monaco,Menlo,Ubuntu Mono,Consolas,source-code-pro,monospace;
+ font-style:normal;
+ font-weight:bold;
+ line-height:1em
+}
+.lua.source-lua pre.de2 {
+ background-color:#1D2B53;
+ padding-top:4px;
+ padding-left:4px;
+ padding-right:2px;
+ padding-bottom:7px;
+ overflow:auto;
+ word-wrap:normal;
+ font-family:Monaco,Menlo,Ubuntu Mono,Consolas,source-code-pro,monospace;
+ font-style:normal;
+ font-weight:bold;
+ line-height:1em
+}
+.lua.source-lua span.br0 {
+ color:#FFF1E8
+}
+.lua.source-lua span.co0 {
+ color:#83769C;
+ font-style:normal
+}
+.lua.source-lua span.co1 {
+ color:#83769C;
+ font-style:normal
+}
+.lua.source-lua span.co2 {
+ color:#83769C;
+ font-style:normal
+}
+.lua.source-lua span.coMULTI {
+ color:#83769C;
+ font-style:normal
+}
+.lua.source-lua span.es0 {
+ color:#29ADFF
+}
+.lua.source-lua span.kw1 {
+ color:#FF77A8
+}
+.lua.source-lua span.kw2 {
+ color:#FF77A8
+}
+.lua.source-lua span.kw3 {
+ color:#00E436
+}
+.lua.source-lua span.kw4 {
+ color:#29ADFF
+}
+.lua.source-lua span.me0 {
+ color:#C2C3C7
+}
+.lua.source-lua span.me1 {
+ color:#C2C3C7
+}
+.lua.source-lua span.me2 {
+ color:#C2C3C7
+}
+.lua.source-lua span.nu0 {
+ color:#29ADFF
+}
+.lua.source-lua span.re0 {
+ color:#C2C3C7
+}
+.lua.source-lua span.re0 {
+ color:#C2C3C7
+}
+.lua.source-lua span.re0 {
+ color:#C2C3C7
+}
+.lua.source-lua span.re0 {
+ color:#C2C3C7
+}
+.lua.source-lua span.re0 {
+ color:#C2C3C7
+}
+.lua.source-lua span.re0 {
+ color:#C2C3C7
+}
+.lua.source-lua span.sy0 {
+ color:#FFF1E8
+}
+.lua.source-lua span.st0 {
+ color:#29ADFF
+}
+.lua.source-lua span.st_h {
+ color:#29ADFF
+}
+.io.source-io {
+ font-family:Monaco,Menlo,Ubuntu Mono,Consolas,source-code-pro,monospace;
+ font-style:normal;
+ font-weight:bold;
+ line-height:1em
+}
+.io.source-io .de1 {
+ color:#C2C3C7;
+ border-top:1px solid #000000;
+ border-left:1px solid #000000;
+ border-right:1px solid #000000;
+ border-bottom:1px solid #000000;
+ font-family:Monaco,Menlo,Ubuntu Mono,Consolas,source-code-pro,monospace;
+ font-style:normal;
+ font-weight:bold;
+ line-height:1em
+}
+.io.source-io .de2 {
+ color:#C2C3C7;
+ border-top:1px solid #000000;
+ border-left:1px solid #000000;
+ border-right:1px solid #000000;
+ border-bottom:1px solid #000000;
+ font-family:Monaco,Menlo,Ubuntu Mono,Consolas,source-code-pro,monospace;
+ font-style:normal;
+ font-weight:bold;
+ line-height:1em
+}
+.io.source-io pre.de1 {
+ background-color:#000000;
+ padding-top:4px;
+ padding-left:4px;
+ padding-right:2px;
+ padding-bottom:7px;
+ overflow:auto;
+ word-wrap:normal;
+ font-family:Monaco,Menlo,Ubuntu Mono,Consolas,source-code-pro,monospace;
+ font-style:normal;
+ font-weight:bold;
+ line-height:1em
+}
+.io.source-io pre.de2 {
+ background-color:#000000;
+ padding-top:4px;
+ padding-left:4px;
+ padding-right:2px;
+ padding-bottom:7px;
+ overflow:auto;
+ word-wrap:normal;
+ font-family:Monaco,Menlo,Ubuntu Mono,Consolas,source-code-pro,monospace;
+ font-style:normal;
+ font-weight:bold;
+ line-height:1em
+}
+.io.source-io span.br0 {
+ color:#C2C3C7
+}
+.io.source-io span.co0 {
+ color:#C2C3C7;
+ font-style:normal
+}
+.io.source-io span.co1 {
+ color:#C2C3C7;
+ font-style:normal
+}
+.io.source-io span.co2 {
+ color:#C2C3C7;
+ font-style:normal
+}
+.io.source-io span.coMULTI {
+ color:#C2C3C7;
+ font-style:normal
+}
+.io.source-io span.es0 {
+ color:#C2C3C7
+}
+.io.source-io span.kw1 {
+ color:#C2C3C7
+}
+.io.source-io span.kw2 {
+ color:#C2C3C7
+}
+.io.source-io span.kw3 {
+ color:#C2C3C7
+}
+.io.source-io span.kw4 {
+ color:#C2C3C7
+}
+.io.source-io span.me0 {
+ color:#C2C3C7
+}
+.io.source-io span.me1 {
+ color:#C2C3C7
+}
+.io.source-io span.me2 {
+ color:#C2C3C7
+}
+.io.source-io span.nu0 {
+ color:#C2C3C7
+}
+.io.source-io span.re0 {
+ color:#C2C3C7
+}
+.io.source-io span.re0 {
+ color:#C2C3C7
+}
+.io.source-io span.re0 {
+ color:#C2C3C7
+}
+.io.source-io span.re0 {
+ color:#C2C3C7
+}
+.io.source-io span.re0 {
+ color:#C2C3C7
+}
+.io.source-io span.re0 {
+ color:#C2C3C7
+}
+.io.source-io span.sy0 {
+ color:#C2C3C7
+}
+.io.source-io span.st0 {
+ color:#C2C3C7
+}
+.io.source-io span.st_h {
+ color:#C2C3C7
+}
+.javascript.source-javascript pre.de1 {
+ color:#D5D4D4;
+ background-color:#1D2B53;
+ border:1px solid #595959;
+ line-height:14px;
+ overflow:auto;
+ padding:12px;
+ word-wrap:normal;
+ font-family:Monaco,Menlo,Ubuntu Mono,Consolas,source-code-pro,monospace
+}
+.javascript.source-javascript span.kw1 {
+ color:#FF77A8
+}
+.javascript.source-javascript span.kw2 {
+ color:#FF77A8
+}
+.javascript.source-javascript span.br0 {
+ color:#FFF1E8
+}
+.javascript.source-javascript span.sy0 {
+ color:#FFF1E8
+}
+.javascript.source-javascript span.kw3 {
+ color:#00E436
+}
+.javascript.source-javascript span.nu0 {
+ color:#29ADFF
+}
+.javascript.source-javascript span.kw4 {
+ color:#29ADFF
+}
+.javascript.source-javascript span.st0 {
+ color:#29ADFF
+}
+kbd {
+ border:1px solid #aaa;
+ -moz-border-radius:0.2em;
+ -webkit-border-radius:0.2em;
+ border-radius:0.2em;
+ -moz-box-shadow:0.1em 0.1em 0.2em rgba(0,0,0,0.1);
+ -webkit-box-shadow:0.1em 0.1em 0.2em rgba(0,0,0,0.1);
+ box-shadow:0.1em 0.1em 0.2em rgba(0,0,0,0.1);
+ background-color:#f9f9f9;
+ background-image:-moz-linear-gradient(top,#eee,#f9f9f9,#eee);
+ background-image:-o-linear-gradient(top,#eee,#f9f9f9,#eee);
+ background-image:-webkit-linear-gradient(top,#eee,#f9f9f9,#eee);
+ background-image:linear-gradient(to bottom,#eee,#f9f9f9,#eee);
+ padding:0.1em 0.3em;
+ font-family:inherit;
+ font-size:0.85em;
+ color:#232323
+}
+@media print {
+}
+
+/* cache key: pico8:resourceloader:filter:minify-css:7:9ce9a64ed4ee4d60c8744f1e7533a22a */
